@@ -45,3 +45,31 @@ JHipster 可以创建 Spring Boot + AngularJS 的应用。
 - `development` 和 `production` 配置文件
 
 - Spring Security
+
+- Rest + Jackson
+
+- 可选的 WebSocket 支持 -- 基于 Spring WebSocket
+
+- Spring Data JPA + Bean 验证
+
+- 使用 Liquibase`[`支持主流数据库重构、迁移`]` 实现数据库自动更新
+
+- 支持 `document-oriented` NoSQL，如：MongoDB
+
+- 支持 `column-oriented` NoSQL，如：Cassandra
+
+支持生产环境：
+
+- Monitoring with Metrics 监控运行状态
+
+- 支持 Ehcache`本地缓存` 或 Hazelcast'分布式缓存'
+
+- 可选 Http Session 集群，基于 Hazelcast
+
+- 优化静态资源（gzip filter,Http cache headers）
+
+- 日志管理 Logback，可在运行时配置
+
+- HikariCP 连接池，用于性能优化
+
+- 可以将应用构建一个标准的 WAR 或可执行的 JAR
