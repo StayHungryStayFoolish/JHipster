@@ -28,7 +28,7 @@ JHipster 可以创建 Spring Boot + AngularJS 的应用。
 
 - Twitter Bootstrap
 
-- AngularJS
+- AngularJS `[`JavaScript MVC 框架`]`
 
 - IE9+ , etc..
 
@@ -56,15 +56,15 @@ JHipster 可以创建 Spring Boot + AngularJS 的应用。
 
 - `development` 和 `production` 配置文件
 
-- Spring Security
+- Spring Security `[`标准业内的授权和认证`]`
 
-- Rest + Jackson
+- Rest + Jackson `基于 Http 协议实现资源操作`
 
-- 可选的 WebSocket 支持 -- 基于 Spring WebSocket
+- 可选的 WebSocket 支持 -- 基于 Spring WebSocket `允许用户在浏览器中实现双向通信，实现数据的及时推送`
 
 - Spring Data JPA + Bean 验证
 
-- 使用 Liquibase`[`支持主流数据库重构、迁移`]` 实现数据库自动更新
+- 使用 Liquibase`[`支持主流数据库重构、迁移`]` 实现数据库自动更新`数据库版本控制`
 
 - 支持 `document-oriented` NoSQL，如：MongoDB
 
