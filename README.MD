@@ -85,3 +85,36 @@ JHipster 可以创建 Spring Boot + AngularJS 的应用。
 - HikariCP 连接池，用于性能优化
 
 - 可以将应用构建一个标准的 WAR 或可执行的 JAR
+
+
+## JHipster 环境依赖
+
+- Node.js
+
+- Git
+
+- NPM
+
+- Yeoman
+
+- Bower
+
+- Grunt
+
+- Yarn
+
+- 最后安装 JHipster
+
+- 具体安装，抽时间补齐
+
+## JHipster 生产环境
+
+- mkdir jhipster && cd jhipster
+
+- yo jhipster
+
+- 具体选项抽时间补齐。网上资料大多陈旧过时。
+
+**注意:** 生产环境前，需要在相关数据库中的 `schema.sql`中填写在选项中曾经定义的 `项目名字` 
+
+- 
