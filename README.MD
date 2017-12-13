@@ -117,4 +117,6 @@ JHipster 可以创建 Spring Boot + AngularJS 的应用。
 
 **注意:** 生产环境前，需要在相关数据库中的 `schema.sql`中填写在选项中曾经定义的 `项目名字` 
 
-- 
+## 项目 运行
+
+- ./mvnw
